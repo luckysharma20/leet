@@ -37,5 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
