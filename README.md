@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/luckysharma20/leet/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
