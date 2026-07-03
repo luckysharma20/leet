@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckysharma20/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckysharma20/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/luckysharma20/leet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/luckysharma20/leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/luckysharma20/leet/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
