@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckysharma20/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/luckysharma20/leet/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/luckysharma20/leet/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/luckysharma20/leet/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/luckysharma20/leet/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
 ## Sorting
@@ -92,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
