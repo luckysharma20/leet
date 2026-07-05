@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/luckysharma20/leet/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/luckysharma20/leet/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/luckysharma20/leet/tree/master/0509-fibonacci-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/luckysharma20/leet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/luckysharma20/leet/tree/master/0260-single-number-iii) |
 ## Sorting
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/luckysharma20/leet/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/luckysharma20/leet/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
