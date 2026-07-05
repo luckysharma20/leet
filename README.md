@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/luckysharma20/leet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/luckysharma20/leet/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/luckysharma20/leet/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/luckysharma20/leet/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/luckysharma20/leet/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/luckysharma20/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/luckysharma20/leet/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
