@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 ## Backtracking
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/luckysharma20/leet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/luckysharma20/leet/tree/master/0007-reverse-integer) |
+| [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/luckysharma20/leet/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
