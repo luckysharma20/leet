@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckysharma20/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/luckysharma20/leet/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/luckysharma20/leet/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/luckysharma20/leet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/luckysharma20/leet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/luckysharma20/leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/luckysharma20/leet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/luckysharma20/leet/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/luckysharma20/leet/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/luckysharma20/leet/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/luckysharma20/leet/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
