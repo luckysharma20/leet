@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckysharma20/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luckysharma20/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/luckysharma20/leet/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/luckysharma20/leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/luckysharma20/leet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/luckysharma20/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/luckysharma20/leet/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/luckysharma20/leet/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/luckysharma20/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/luckysharma20/leet/tree/master/0148-sort-list) |
 | [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
