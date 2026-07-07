@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/luckysharma20/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/luckysharma20/leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/luckysharma20/leet/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/luckysharma20/leet/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/luckysharma20/leet/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 | [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/luckysharma20/leet/tree/master/1903-largest-odd-number-in-string) |
