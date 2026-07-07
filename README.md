@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/luckysharma20/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/luckysharma20/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/luckysharma20/leet/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/luckysharma20/leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/luckysharma20/leet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/luckysharma20/leet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/luckysharma20/leet/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/luckysharma20/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/luckysharma20/leet/tree/master/0283-move-zeroes) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/luckysharma20/leet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/luckysharma20/leet/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/luckysharma20/leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/luckysharma20/leet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/luckysharma20/leet/tree/master/0148-sort-list) |
 | [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
