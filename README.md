@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/luckysharma20/leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/luckysharma20/leet/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/luckysharma20/leet/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/luckysharma20/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/luckysharma20/leet/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckysharma20/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/luckysharma20/leet/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/luckysharma20/leet/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/luckysharma20/leet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/luckysharma20/leet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/luckysharma20/leet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/luckysharma20/leet/tree/master/0056-merge-intervals) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/luckysharma20/leet/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/luckysharma20/leet/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/luckysharma20/leet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/luckysharma20/leet/tree/master/0079-word-search) |
 ## Trie
