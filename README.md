@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/luckysharma20/leet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/luckysharma20/leet/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/luckysharma20/leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/luckysharma20/leet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/luckysharma20/leet/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/luckysharma20/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -234,12 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/luckysharma20/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/luckysharma20/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/luckysharma20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/luckysharma20/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/luckysharma20/leet/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -331,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/luckysharma20/leet/tree/master/1392-longest-happy-prefix) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
