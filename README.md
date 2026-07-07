@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/luckysharma20/leet/tree/master/0260-single-number-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/luckysharma20/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luckysharma20/leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
