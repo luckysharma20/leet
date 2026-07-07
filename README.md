@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luckysharma20/leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckysharma20/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/luckysharma20/leet/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/luckysharma20/leet/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/luckysharma20/leet/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/luckysharma20/leet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/luckysharma20/leet/tree/master/0051-n-queens) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/luckysharma20/leet/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/luckysharma20/leet/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/luckysharma20/leet/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luckysharma20/leet/tree/master/1838-frequency-of-the-most-frequent-element) |
