@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/luckysharma20/leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/luckysharma20/leet/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/luckysharma20/leet/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/luckysharma20/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/luckysharma20/leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/luckysharma20/leet/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 | [0796-rotate-string](https://github.com/luckysharma20/leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/luckysharma20/leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/luckysharma20/leet/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luckysharma20/leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
