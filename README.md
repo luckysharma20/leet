@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/luckysharma20/leet/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/luckysharma20/leet/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/luckysharma20/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/luckysharma20/leet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/luckysharma20/leet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
