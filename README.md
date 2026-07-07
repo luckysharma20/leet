@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/luckysharma20/leet/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/luckysharma20/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/luckysharma20/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/luckysharma20/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/luckysharma20/leet/tree/master/0205-isomorphic-strings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/luckysharma20/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
