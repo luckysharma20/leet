@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/luckysharma20/leet/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/luckysharma20/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
 | [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/luckysharma20/leet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/luckysharma20/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/luckysharma20/leet/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/luckysharma20/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
