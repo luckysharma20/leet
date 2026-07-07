@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/luckysharma20/leet/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/luckysharma20/leet/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
+| [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/luckysharma20/leet/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/luckysharma20/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/luckysharma20/leet/tree/master/0232-implement-queue-using-stacks) |
+| [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
