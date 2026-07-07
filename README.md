@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/luckysharma20/leet/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/luckysharma20/leet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/luckysharma20/leet/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/luckysharma20/leet/tree/master/0509-fibonacci-number) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/luckysharma20/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/luckysharma20/leet/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/luckysharma20/leet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/luckysharma20/leet/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/luckysharma20/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/luckysharma20/leet/tree/master/0148-sort-list) |
