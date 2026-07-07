@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/luckysharma20/leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/luckysharma20/leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckysharma20/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/luckysharma20/leet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/luckysharma20/leet/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/luckysharma20/leet/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/luckysharma20/leet/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/luckysharma20/leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/luckysharma20/leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckysharma20/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/luckysharma20/leet/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/luckysharma20/leet/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/luckysharma20/leet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/luckysharma20/leet/tree/master/0053-maximum-subarray) |
