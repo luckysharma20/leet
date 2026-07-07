@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/luckysharma20/leet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/luckysharma20/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/luckysharma20/leet/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/luckysharma20/leet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/luckysharma20/leet/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/luckysharma20/leet/tree/master/0282-expression-add-operators) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/luckysharma20/leet/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/luckysharma20/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/luckysharma20/leet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/luckysharma20/leet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/luckysharma20/leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/luckysharma20/leet/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/luckysharma20/leet/tree/master/0876-middle-of-the-linked-list) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/luckysharma20/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/luckysharma20/leet/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/luckysharma20/leet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/luckysharma20/leet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/luckysharma20/leet/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/luckysharma20/leet/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/luckysharma20/leet/tree/master/0240-search-a-2d-matrix-ii) |
