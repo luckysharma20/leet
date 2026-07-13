@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/luckysharma20/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luckysharma20/leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/luckysharma20/leet/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/luckysharma20/leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/luckysharma20/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/luckysharma20/leet/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/luckysharma20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/luckysharma20/leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -419,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/luckysharma20/leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/luckysharma20/leet/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/luckysharma20/leet/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/luckysharma20/leet/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
