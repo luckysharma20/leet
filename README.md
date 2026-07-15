@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/luckysharma20/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/luckysharma20/leet/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/luckysharma20/leet/tree/master/0560-subarray-sum-equals-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/luckysharma20/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/luckysharma20/leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/luckysharma20/leet/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/luckysharma20/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/luckysharma20/leet/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/luckysharma20/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/luckysharma20/leet/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/luckysharma20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/luckysharma20/leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/luckysharma20/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/luckysharma20/leet/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/luckysharma20/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/luckysharma20/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/luckysharma20/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luckysharma20/leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
